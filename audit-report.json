@@ -1,0 +1,18 @@
+{
+  "domain": "https://example.com",
+  "timestamp": "2025-06-06T14:00:00Z",
+  "score": { "seo": 87, "overall": 80 },
+  "findings": {
+    "seo": { "meta_title": { "summary": "Title is present" } },
+    "technical": {},
+    "performance": {},
+    "security": {}
+  },
+  "prioritized_actions": [
+    {
+      "priority": "high",
+      "section": "SEO",
+      "action": "Add missing canonical tags"
+    }
+  ]
+}
